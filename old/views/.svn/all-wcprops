@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/dnstools/!svn/ver/17/trunk/views
+END
+_footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/dnstools/!svn/ver/5/trunk/views/_footer.php
+END
+domainlookup.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/dnstools/!svn/ver/5/trunk/views/domainlookup.php
+END
+_header.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/dnstools/!svn/ver/11/trunk/views/_header.php
+END
+home.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/dnstools/!svn/ver/17/trunk/views/home.php
+END

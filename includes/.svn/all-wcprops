@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/dnstools/!svn/ver/20/trunk/includes
+END
+tools.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/dnstools/!svn/ver/15/trunk/includes/tools.php
+END
+controllers.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/dnstools/!svn/ver/21/trunk/includes/controllers.php
+END
+whois.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/dnstools/!svn/ver/12/trunk/includes/whois.php
+END
